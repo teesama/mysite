@@ -1,0 +1,30 @@
+*{
+  font-family: 'Kanit', sans-serif;
+  font-size: 16px;
+}
+.font{
+  font-family: 'Kanit', sans-serif;
+}
+.logout{
+  color:grey;
+}
+.logout:hover{
+  color:lightgrey;
+}
+.row{
+  margin-top: 25px;
+}
+.col-md-3{
+  margin-left: 15px;
+}
+.body{
+  background: #FFFCF5;
+}
+@media print
+{
+#non-printable { display: none; }
+#printable { display: block; }
+}
+.btnreport{
+  margin-top: 25px;
+}
